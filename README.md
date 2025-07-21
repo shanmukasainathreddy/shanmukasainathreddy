@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **full-stack projects** and competitive programming  
 - 🌱 I’m currently learning **System Design ,Frontend and Backend Development**  
-- 💬 Ask me about **C++, Java, DSA, Web Development**  
+- 💬 Ask me about **C++,C, DSA, Web Development**  
 - 📫 How to reach me: **[desaishanmukasainathreddy@gmail.com](mailto:YourEmail@example.com)**  
 - ⚡ Fun fact: I love building optimized and scalable code
 
