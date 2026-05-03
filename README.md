@@ -71,12 +71,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmukasainathreddy&show_icons=true&theme=react&hide_border=true" width="47%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukasainathreddy&theme=react&hide_border=true" width="47%" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukasainathreddy&amp;theme=react&amp;hide_border=true" width="48%" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukasainathreddy&layout=compact&theme=react&hide_border=true&langs_count=10" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanmukasainathreddy&amp;theme=github_dark" width="80%" alt="GitHub profile summary" />
 </p>
 
 ---
