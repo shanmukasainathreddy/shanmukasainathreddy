@@ -10,7 +10,7 @@
 ### About Me
 
 - I build full-stack web applications with a strong focus on clean UI, reliable backend logic, and practical database design.
-- I work with frontend technologies like **HTML, CSS, JavaScript, TypeScript, Angular, React, and Tailwind CSS**.
+- I work with frontend technologies like **HTML, CSS, JavaScript, TypeScript, and Angular**.
 - I develop backend applications using **Java, Spring Boot, REST APIs, and SQL-based persistence**.
 - I actively practice **Data Structures and Algorithms** to improve problem-solving and coding efficiency.
 - I am comfortable with core programming concepts in **C++, Java, JavaScript, and TypeScript**.
@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 #### Backend Development
